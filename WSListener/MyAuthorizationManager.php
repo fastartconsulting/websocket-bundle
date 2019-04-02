@@ -1,6 +1,6 @@
 <?php
 
-namespace WebSocketBundle\WSListener;
+namespace FAC\WebSocketBundle\WSListener;
 
 use Thruway\Event\MessageEvent;
 use Thruway\Event\NewRealmEvent;

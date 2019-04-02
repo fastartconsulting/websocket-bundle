@@ -1,0 +1,20 @@
+{
+    "name": "fastartconsulting/websocket-bundle",
+    "description": "FastArtConsulting Symfony WebCocketBundle",
+    "type": "symfony-bundle",
+    "require": {
+        "ext-mongo": "*",
+        "voryx/thruway-bundle": "^0.4.1"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lmangiacotti",
+            "email": "luca.mangiacotti@fastartconsulting.com"
+        }
+    ]
+}
